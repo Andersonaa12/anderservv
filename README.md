@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">Soy Anderson Serna, 👨‍💻un apasionado desarrollador Full-Stack 🚀</div>  
+### <div align="center">Soy Anderson Serna 👋, un apasionado desarrollador Full-Stack 🚀</div>  
   
 
-Tengo experiencia en la creación de aplicaciones web y móviles. Actualmente, formo parte de los equipos de desarrollo de Sige y Compsis, donde trabajo tanto de manera remota como presencial.
+Tengo experiencia en la creación de aplicaciones web y móviles 👨‍💻. Actualmente, formo parte de los equipos de desarrollo de Sige y Compsis, donde trabajo tanto de manera remota como presencial.
 
 Mis habilidades técnicas abarcan un amplio espectro de tecnologías, lo que me permite abordar proyectos de manera versátil y eficaz. En el lado del back-end, soy competente en PHP y Laravel, mientras que en el front-end, tengo experiencia con Bootstrap, JavaScript, y utilizo Tailwind CSS para crear interfaces elegantes y amigables.
 
@@ -20,7 +20,7 @@ Estoy constantemente buscando formas de aprender y mejorar mis habilidades. ¡No
 <br/>  
 
 
-## My Skill Set  
+## 🛠 Lenguajes y Herramientas 
 <table><tr><td valign="top" width="33%">
 
 
@@ -72,7 +72,7 @@ Estoy constantemente buscando formas de aprender y mejorar mis habilidades. ¡No
 <br/>  
 
 
-## Connect with me  
+## 📩 Contactame!  
 <div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anderson-camilo-serna-estrada-889954268/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -83,5 +83,11 @@ Estoy constantemente buscando formas de aprender y mejorar mis habilidades. ¡No
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=anderservv&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+## 📈 Estadisticas GitHub  
+<div style="background-color: black; color= white;" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anderservv&show_icons=true&locale=en&theme=tokyonight" align="center"/>
+</div> 
+
+<div style="background-color: black; color= white;" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anderservv&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="center" />
+</div> 
