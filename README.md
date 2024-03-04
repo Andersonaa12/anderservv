@@ -6,7 +6,7 @@
 ### <div align="center">Soy Anderson Serna 👋, un apasionado desarrollador Full-Stack 🚀</div>  
   
 
-Tengo experiencia en la creación de aplicaciones web y móviles 👨‍💻. Actualmente, formo parte de los equipos de desarrollo de Sige y Compsis, donde trabajo tanto de manera remota como presencial.
+Tengo experiencia en la creación de aplicaciones web y móviles 👨‍💻. Actualmente, formo parte de los equipos de desarrollo de Sige y Stockago, donde trabajo tanto de manera remota como presencial.
 
 Mis habilidades técnicas abarcan un amplio espectro de tecnologías, lo que me permite abordar proyectos de manera versátil y eficaz. En el lado del back-end, soy competente en PHP y Laravel, mientras que en el front-end, tengo experiencia con Bootstrap, JavaScript, y utilizo Tailwind CSS para crear interfaces elegantes y amigables.
 
